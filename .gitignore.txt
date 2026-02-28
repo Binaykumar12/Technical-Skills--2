@@ -1,0 +1,14 @@
+# compiled / binary files
+*.exe
+*.dll
+*.class
+*.jar
+*.out
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# env files
+.env
